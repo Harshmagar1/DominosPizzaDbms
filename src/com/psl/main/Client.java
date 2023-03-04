@@ -12,7 +12,8 @@ import com.psl.util.DominozPizzaDelivery;
 import com.psl.util.DominozPizzaDeliveryImpl;
 
 public class Client {
-
+ int i =12;
+ int i1= 12;
 	public static void main(String[] args) {
 		List<Dish> list = new ArrayList<Dish>();
 		Set<Location> set = new HashSet<Location>();
